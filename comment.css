@@ -1,0 +1,22 @@
+*{
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background:gainsboro;
+}
+.header{
+    background-image: url(forest\ dd3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 1500px; ;
+    height: 1500px;
+    position: relative;
+    padding: 20px;
+    overflow: hidden;
+}
