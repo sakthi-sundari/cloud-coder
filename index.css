@@ -1,0 +1,61 @@
+*{
+    
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background:gainsboro;
+
+}
+.header{
+    background-image: url(forest\ dd2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 1500px; ;
+    height: 1500px;
+    position: relative;
+    padding: 20px;
+    overflow: hidden;
+
+    
+}
+.header  h1{
+    margin-left: auto;
+    color: darkgreen;
+}
+.header h3{
+    color: cornsilk;
+}
+.header .ele ol{
+    border-radius: 10px;
+    
+    
+    }
+.header ol{
+    display: flex;
+}
+.icon{
+    height: 60px;
+}
+.header  .search-input input{
+    color: white;
+    margin-top: px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 15px;
+
+}
+
+.drop {
+    width: 5px;
+    height: 5px;
+}
+.footer{
+    height: 10px;
+    width:10px ;
+}
